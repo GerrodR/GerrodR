@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on intersting and fun projects.
 - 📫 How to reach me socialssonly@gmail.com.
-- ⚡ Fun fact: I don't only write code but I also write short stories and scipts. 
+- ⚡ Fun fact: I don't only write code but I also write short stories and scripts. 
 
 <!---
 GerrodR/GerrodR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
